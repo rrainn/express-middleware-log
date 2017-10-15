@@ -1,7 +1,7 @@
 {
   "name": "express-middleware-log",
   "version": "1.0.0",
-  "description": "",
+  "description": "Express Middleware Logger",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,9 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/rrainn/express-middleware-log.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["express", "middleware", "logger"],
+  "author": "rrainn, Inc.",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/rrainn/express-middleware-log/issues"
   },
