@@ -1,6 +1,8 @@
 module.exports = function (string) {
 	return function (req, res, next) {
-		console.log(string);
+		if (string) {
+			console.log(string);
+		}
 		next();
 	}
 }
