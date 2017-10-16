@@ -1,6 +1,6 @@
 {
   "name": "express-middleware-log",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Express Middleware Logger",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/rrainn/express-middleware-log.git"
   },
-  "keywords": ["express", "middleware", "logger"],
+  "keywords": [
+    "express",
+    "middleware",
+    "logger"
+  ],
   "author": "rrainn, Inc.",
   "license": "MIT",
   "bugs": {
