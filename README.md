@@ -7,5 +7,7 @@
 
 ### Usage
     
-    var logger = require("express-middleware-log"); // Include express-middleware-log in your application
+    const logger = require("express-middleware-log"); // Include express-middleware-log in your application
+    
     app.use(logger("Before Middleware 1")); // Print "Before Middleware 1" at this point
+    app.use(logger(req => req.path)); // Print req.path at this point

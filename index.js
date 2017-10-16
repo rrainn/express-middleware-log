@@ -3,7 +3,9 @@ module.exports = function (string, res, next) {
 		return next();
 	}
 	return function (req, res, next) {
-		if (string) {
+		if (typeof string === "function") {
+			console.log(string(req, res));
+		} else if (string) {
 			console.log(string);
 		}
 		next();
