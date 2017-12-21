@@ -1,4 +1,4 @@
-# express-middleware-log [![NPM version](https://badge.fury.io/js/express-middleware-log.svg)](http://badge.fury.io/js/express-middleware-log) [![Dependencies](https://david-dm.org/rrainn/express-middleware-log.svg)](https://david-dm.org/rrainn/express-middleware-log) [![Dev Dependencies](https://david-dm.org/rrainn/express-middleware-log/dev-status.svg)](https://david-dm.org/rrainn/express-middleware-log?type=dev)
+# express-middleware-log [![NPM version](https://badge.fury.io/js/express-middleware-log.svg)](http://badge.fury.io/js/express-middleware-log) [![Known Vulnerabilities](https://snyk.io/test/github/rrainn/express-middleware-log/badge.svg)](https://snyk.io/test/github/rrainn/express-middleware-log) [![Dependencies](https://david-dm.org/rrainn/express-middleware-log.svg)](https://david-dm.org/rrainn/express-middleware-log) [![Dev Dependencies](https://david-dm.org/rrainn/express-middleware-log/dev-status.svg)](https://david-dm.org/rrainn/express-middleware-log?type=dev)
 
 ### Install
 
