@@ -1,4 +1,4 @@
-# express-middleware-log [![NPM version](https://badge.fury.io/js/express-middleware-log.svg)](http://badge.fury.io/js/express-middleware-log)
+# express-middleware-log [![NPM version](https://badge.fury.io/js/express-middleware-log.svg)](http://badge.fury.io/js/express-middleware-log) [![Dependencies](https://david-dm.org/rrainn/express-middleware-log.svg)](https://david-dm.org/rrainn/express-middleware-log) [![Dev Dependencies](https://david-dm.org/rrainn/express-middleware-log/dev-status.svg)](https://david-dm.org/rrainn/express-middleware-log?type=dev)
 
 ### Install
 
